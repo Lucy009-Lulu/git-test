@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello git3333333!");
         System.out.println("hello git444!");  //好困呀！
         System.out.println("master test！");  //合并冲突！
+        System.out.println("hot-fix test！");  //合并冲突！
     }
 }
